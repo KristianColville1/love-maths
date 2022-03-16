@@ -1,7 +1,7 @@
 # Love Maths
 
 ## About
-This is a walkthrough project with Code Institute for portfolio project 2.
+This is a walk through project with Code Institute for portfolio project 2.
 
 ## Deployment
 ### Version Control
